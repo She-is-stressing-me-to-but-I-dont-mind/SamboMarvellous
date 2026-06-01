@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Sambo Marvellous </title>
+</head>
+<body>
+
+    <h1>Sambo Marvellous </h1>
+
+    <p><strong>Registration Number:</strong> MB/23/396</p>
+
+    <p><strong>Department:</strong> MICROBIOLOGY</p>
+
+    <p><strong>Level:</strong> 300 Level</p>
+
+    <p><strong>Institution:</strong> Madonna University</p>
+
+    <hr>
+
+    <p>
+        I am a Micro Biology student at Madonna University.
+      Im a300 level student at Madonna University, focused on building strong academic and practical skills for life after school.  
+My hobbies areTech and digital trends listening to Afrobeats and podcasts.
+
+    <p>
+        MY goal is to  build relevant tech/business skills, grow a personal brand online, and become financially independent while making an impact in this field.  
+
+</body>
+</html>
