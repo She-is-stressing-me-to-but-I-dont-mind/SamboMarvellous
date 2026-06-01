@@ -19,7 +19,7 @@
 
     <p>
         I am a Micro Biology student at Madonna University.
-      Im a300 level student at Madonna University, focused on building strong academic and practical skills for life after school.  
+        Im a300 level student at Madonna University, focused on building strong academic and practical skills for life after school.  
 My hobbies areTech and digital trends listening to Afrobeats and podcasts.
 
     <p>
